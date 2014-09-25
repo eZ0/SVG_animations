@@ -1,29 +1,42 @@
-my codepen - http://codepen.io/eZ0/pen/wgqAs 
 
-Loading Icons - http://codepen.io/aurer/pen/jEGbA
-Anchor Styles - http://tympanus.net/Development/InlineAnchorStyles/ 
-Responsive SVG icons - http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/ 
-http://www.w3.org/Graphics/SVG/ - working group
-http://en.wikibooks.org/wiki/XML_-_Managing_Data_Exchange/SVG  - ML - Managing Data Exchange
+**********TO READ**********
+- ML - Managing Data Exchange - http://en.wikibooks.org/wiki/XML_-_Managing_Data_Exchange/SVG 
+Working Group - http://www.w3.org/Graphics/SVG/
 
-Velocity.js for svg animation (solves svg support problem) - http://julian.com/research/velocity/ 
-
-Sara Soueidan - http://sarasoueidan.com 
-https://www.youtube.com/watch?v=hI9roqOKKO8&app=desktop
+**********TO WATCH**********
+Dmitry Baranovsky - https://www.youtube.com/watch?v=SeLOt_BRAqc 
+Sara Soueidan - https://www.youtube.com/watch?v=hI9roqOKKO8&app=desktop
 slides - https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/pub?start=false&loop=false&delayms=3000&slide=id.g33a59a964_010 
 
+**********TO EXPLORE**********
+Loading Icons - http://codepen.io/aurer/pen/jEGbA
+Responsive SVG icons - http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/ 
+Anchor Styles - http://tympanus.net/Development/InlineAnchorStyles/ 
+
+**********TO DO**********
+my codepen - http://codepen.io/eZ0/pen/wgqAs 
+
+**********PEOPLE TO FOLLOW**********
+Sara Soueidan - http://sarasoueidan.com 
+
+**********OTHER**********
+Browser Support - http://caniuse.com/#search=svg
+Velocity.js for svg animation (solves svg support problem) - http://julian.com/research/velocity/ 
 SVG Circus for creating animations - http://svgcircus.com 
 
-Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium (W3C) since 1999.
-SVG images and their behaviors are defined in XML text files. This means that they can be searched, indexed, scripted, and compressed. As XML files, SVG images can be created and edited with any text editor, but are more often created with drawing software. SVG allows three types of graphic objects: vector graphics, raster graphics, and text.
- SVG content can be animated using the built-in animation elements such as <animate>, <animateMotion> and <animateColor>. Content can be animated by manipulating the DOM using ECMAScript and the scripting language's built-in timers. SVG animation has been designed to be compatible with current and future versions of Synchronized Multimedia Integration Language (SMIL). Animations can be continuous, they can loop and repeat, and they can respond to user events, as mentioned above. ( http://en.wikipedia.org/wiki/Scalable_Vector_Graphics )
 
-Dmitry Baranovsky - https://www.youtube.com/watch?v=SeLOt_BRAqc 
+
+Scalable Vector Graphics (SVG) is an XML-based vector image format for 2D graphics with support for interactivity and animation. 
+The SVG specification is an open standard developed by the World Wide Web Consortium (W3C) since 1999.
+
+SVG images and their behaviors are defined in XML text files. This means that they can be searched, indexed, scripted, and compressed. As XML files, SVG images can be created and edited with any text editor, but are more often created with drawing software. SVG allows three types of graphic objects: vector graphics, raster graphics, and text.
+
+SVG content can be animated using the built-in animation elements such as <animate>, <animateMotion> and <animateColor>. Content can be animated by manipulating the DOM using ECMAScript and the scripting language's built-in timers. SVG animation has been designed to be compatible with current and future versions of Synchronized Multimedia Integration Language (SMIL). Animations can be continuous, they can loop and repeat, and they can respond to user events, as mentioned above. ( source: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics )
+
 Animated line drawing in svg - http://jakearchibald.com/2013/animated-line-drawing-svg/ 
 http://tympanus.net/codrops/2014/02/06/fullscreen-overlay-effects/
 http://tympanus.net/codrops/2014/01/07/shape-hover-effect-with-svg/
 http://oak.is/thinking/animated-svgs/
 http://www.sitepoint.com/tips-accessible-svg/
 https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/pub?start=true&loop=false&delayms=5000&slide=id.g33516db85_025
-Browser Support - http://caniuse.com/#search=svg
 http://sarasoueidan.com/articles.html 
