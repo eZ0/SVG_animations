@@ -4,11 +4,14 @@
 Working Group - http://www.w3.org/Graphics/SVG/
 Adobe SVG Dev Center - http://www.adobe.com/devnet/svg.html
 SVG Coordinate sys - http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html#overview
+WebPlatform SVG - http://docs.webplatform.org/wiki/svg
 
 **********TO WATCH**********
+Journey through the graphical Web - https://www.youtube.com/watch?v=P2Yj-8zGa3U
 Dmitry Baranovsky - https://www.youtube.com/watch?v=SeLOt_BRAqc 
 Sara Soueidan - https://www.youtube.com/watch?v=hI9roqOKKO8&app=desktop
 slides - https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/pub?start=false&loop=false&delayms=3000&slide=id.g33a59a964_010 
+Todd Parker - Workflow for designers -https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/pub?start=true&loop=false&delayms=5000&slide=id.g33516db85_025
 
 **********TO EXPLORE**********
 Loading Icons - http://codepen.io/aurer/pen/jEGbA
@@ -17,6 +20,7 @@ Anchor Styles - http://tympanus.net/Development/InlineAnchorStyles/
 
 **********TO DO**********
 my codepen - http://codepen.io/eZ0/pen/wgqAs 
+export svg from AI to web - http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/
 
 **********PEOPLE TO FOLLOW**********
 Sara Soueidan - http://sarasoueidan.com 
@@ -27,7 +31,7 @@ Velocity.js for svg animation (solves svg support problem) - http://julian.com/r
 SVG Circus for creating animations - http://svgcircus.com 
 Examlpe on server-side svg generation - http://www.carto.net/papers/svg/samples/mysql_svg_php.shtml
 SVG Open conference - http://www.svgopen.org/2014/
-D3.js Data-driven documents - http://d3js.org
+D3.js manipulate data-driven documents - http://d3js.org
 
 
 
@@ -69,5 +73,7 @@ http://tympanus.net/codrops/2014/02/06/fullscreen-overlay-effects/
 http://tympanus.net/codrops/2014/01/07/shape-hover-effect-with-svg/
 http://oak.is/thinking/animated-svgs/
 http://www.sitepoint.com/tips-accessible-svg/
-https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/pub?start=true&loop=false&delayms=5000&slide=id.g33516db85_025
+http://webdesign.tutsplus.com/articles/manipulating-svg-icons-with-simple-css--webdesign-15694
+http://tympanus.net/codrops/2013/11/05/animated-svg-icons-with-snap-svg/
+http://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_filters
 http://sarasoueidan.com/articles.html 
