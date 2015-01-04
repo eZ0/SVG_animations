@@ -31,9 +31,11 @@ Plus: Paths
 You can also create svg in 3D.
 
 Including SVG in HTML
+```html
 <embed src="canvas.svg" width="350" height="176" type="image/svg+xml" name="emap">
 <object type="image/svg+xml" name="omap" data="canvas_norelief.svg" width="350" height="176"></object>
 <iframe src="canvas_norelief.svg" width="350" height="176" name="imap"></iframe>
+```
 
 **********RESOURCES**********
 - [- ML - Managing Data Exchange](http://en.wikibooks.org/wiki/XML_-_Managing_Data_Exchange/SVG)
