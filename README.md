@@ -59,7 +59,7 @@ You can also create svg in 3D.
 
 <h3>People to follow</h3>
 - [Dmitry Baranovsky](https://www.youtube.com/watch?v=SeLOt_BRAqc) - dev of snap.svg, raphael etc 
-- [Sara Soueidan](https://www.youtube.com/watch?v=hI9roqOKKO8&app=desktop)[her slides](https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/pub?start=false&loop=false&delayms=3000&slide=id.g33a59a964_010)
+- [Sara Soueidan](https://www.youtube.com/watch?v=hI9roqOKKO8&app=desktop) and [her slides](https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/pub?start=false&loop=false&delayms=3000&slide=id.g33a59a964_010)
 - [Todd Parker](https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/pub?start=true&loop=false&delayms=5000&slide=id.g33516db85_025) Workflow for designers
 
 <h3>Tutorials</h3>
