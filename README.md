@@ -30,7 +30,7 @@ Plus: Paths
 
 You can also create svg in 3D.
 
-Including SVG in HTML
+<h2>Including SVG in HTML</h2>
 ```html
 <embed src="canvas.svg" width="350" height="176" type="image/svg+xml" name="emap">
 <object type="image/svg+xml" name="omap" data="canvas_norelief.svg" width="350" height="176"></object>
