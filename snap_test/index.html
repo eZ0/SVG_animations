@@ -1,20 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SVG animations</title>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SVG animations</title>
 
-    <link href="css/style.css" rel="stylesheet">
-  </head>
-  <body>
-    <svg id="svg" width='800' height='400'></svg>
-    
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/snap.svg.js"></script>
-    <script src="js/main.js"></script>
-  </body>
+	<link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+	<svg id="svg" width='400' height='200'></svg>
+	<object type="image/svg+xml" data="img/svg.svg" width='400' height='200'></object>
+
+	<svg version="1.1" id="creature" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve" width='400' height='200'>
+		<circle id="head" fill="#E96045" stroke="#000000" stroke-miterlimit="10" cx="49.2" cy="50.7" r="28.2"/>
+		<ellipse id="s_x5F_eye" fill="#0E0C0B" stroke="#000000" stroke-miterlimit="10" cx="49.9" cy="48.5" rx="4" ry="4.3"/>
+		<circle id="p_x5F_s_x5F_eye" fill="#FFFFFF" cx="52.6" cy="48.9" r="0.8"/>
+		<ellipse id="b_x5F_eye" fill="#0E0C0B" stroke="#000000" stroke-miterlimit="10" cx="44.9" cy="50.7" rx="2.1" ry="2.2"/>
+		<circle id="p_x5F_b_x5F_eye" fill="#FFFFFF" cx="45.6" cy="51.2" r="0.3"/>
+	</svg>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/snap.svg.js"></script>
+<script src="js/main.js"></script>
+</body>
 </html>
