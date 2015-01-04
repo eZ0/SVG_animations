@@ -82,6 +82,7 @@ You can also create svg in 3D.
 - [Shape hover effect with SVG](http://tympanus.net/codrops/2014/01/07/shape-hover-effect-with-svg/)
 - [Animated SVG](http://oak.is/thinking/animated-svgs/)
 - [Animated SVG with snap.svg](http://tympanus.net/codrops/2013/11/05/animated-svg-icons-with-snap-svg/)
+- [SVG animation for xBox/PS](http://product.voxmedia.com/2013/11/25/5426880/polygon-feature-design-svg-animations-for-fun-and-profit)
 
 
 
