@@ -56,6 +56,7 @@ You can also create svg in 3D.
 - [Z-index on SVG](https://svgwg.org/svg2-draft/painting.html#ZIndexProperty)
 - [Optimisation tool for SVG](https://github.com/svg/svgo)
 - [Accessible SVG](http://www.sitepoint.com/tips-accessible-svg/)
+- [Scaling SVG] (http://css-tricks.com/scale-svg/)
 
 <h3>People to follow</h3>
 - [Dmitry Baranovsky](https://www.youtube.com/watch?v=SeLOt_BRAqc) - dev of snap.svg, raphael etc 
